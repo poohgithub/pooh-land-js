@@ -1,16 +1,16 @@
 {
-  "name": "boa-space-seaport-js",
-  "version": "1.0.9",
-  "description": "[BoaSpace Contracts](https://github.com/bosagora/boa-space-contracts) is a new marketplace protocol for safely and efficiently buying and selling NFTs. This is a JavaScript library intended to make interfacing with the contract reasonable and easy.",
+  "name": "pooh-land-js",
+  "version": "1.0.0",
+  "description": "[Pooh Land Node Module](https://github.com/poohgithub/pooh-land-js) is a new marketplace protocol for safely and efficiently buying and selling NFTs. This is a JavaScript library intended to make interfacing with the contract reasonable and easy.",
   "license": "MIT",
   "author": "BoaSpace Developers",
-  "homepage": "https://github.com/bosagora/boa-space-seaport-js#readme",
+  "homepage": "https://github.com/poohgithub/pooh-land-js#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bosagora/boa-space-seaport-js.git"
+    "url": "git+https://github.com/poohgithub/pooh-land-js.git"
   },
   "bugs": {
-    "url": "https://github.com/bosagora/boa-space-seaport-js/issues"
+    "url": "https://github.com/poohgithub/pooh-land-js/issues"
   },
   "main": "lib/index.js",
   "files": [
@@ -93,7 +93,7 @@
     "prettier": "^2.5.1",
     "prettier-package-json": "^2.6.3",
     "prettier-plugin-solidity": "^1.0.0-beta.13",
-    "seaport": "git+https://github.com/bosagora/boa-space-contracts.git#35374900cc4f6ed2184b8ba751af5246f3a3f341",
+    "seaport": "git+https://github.com/poohgithub/pooh-land.git#c8d53ddc1764c91276be6b90e3aefea677e18247",
     "sinon": "^13.0.1",
     "sinon-chai": "^3.7.0",
     "solhint": "^3.3.7",

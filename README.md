@@ -20,7 +20,7 @@ npm test
 ```
 
 
-# Pooh Seaport.js
+# Pooh Land.js
 
 [Contracts][pooh-seaport-link] is a new marketplace protocol for safely and efficiently buying and selling NFTs. This is a JavaScript library intended to make interfacing with the contract reasonable and easy.
 

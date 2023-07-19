@@ -9,7 +9,7 @@
 # How to test
 ```shell
 # make a copy of the repository
-git clone https://github.com/bosagora/boa-space-seaport-js.git
+git clone https://github.com/poohgithub/pooh-seaport-js.git
 cd boa-space-seaport-js
 
 # package install
@@ -20,9 +20,9 @@ npm test
 ```
 
 
-# BoaSpace Seaport.js
+# Pooh Seaport.js
 
-[BoaSpace Contracts][boaspace-contract-link] is a new marketplace protocol for safely and efficiently buying and selling NFTs. This is a JavaScript library intended to make interfacing with the contract reasonable and easy.
+[Contracts][pooh-seaport-link] is a new marketplace protocol for safely and efficiently buying and selling NFTs. This is a JavaScript library intended to make interfacing with the contract reasonable and easy.
 
 - [Synopsis](#synopsis)
 - [Installation](#installation)
@@ -41,7 +41,7 @@ We recommend using [nvm](https://github.com/nvm-sh/nvm) to manage Node.js versio
 Then, in your project, run:
 
 ```console
-npm install --save boa-space-seaport-js
+npm install --save pooh-seaport-js
 ```
 
 ## Getting Started
@@ -53,7 +53,7 @@ Instantiate your instance of seaport using your ethers provider:
 #### Through a browser provider (i.e. Metamask)
 
 ```js
-import { Seaport } from "boa-space-seaport-js";
+import { Seaport } from "pooh-seaport-js";
 import { ethers } from "ethers";
 
 const provider = new ethers.providers.Web3Provider(window.ethereum);
@@ -178,7 +178,7 @@ See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 [MIT](LICENSE) Copyright 2022 Ozone Networks, Inc.
 
-[boaspace-contract-link]: https://github.com/bosagora/boa-space-contracts
+[pooh-seaport-link]: https://github.com/bosagora/pooh-seaport
 [version-badge]: https://img.shields.io/github/package-json/v/boa-space-seaport-js
 [version-link]: https://github.com/bosagora/boa-space-seaport-js/releases
 [npm-badge]: https://img.shields.io/npm/v/boa-space-seaport-js?color=red
